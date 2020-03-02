@@ -1,0 +1,1 @@
+export const generateKey = () => new Date().getTime();
